@@ -5,22 +5,33 @@ Since the beggining of 2020 I have been Learning Front End Development. I enroll
 
 :page_with_curl: Current Skills include but are not limited to:
 
+<li>Git</li>
 <li>ReactJs</li>
+<li>HTML/CSS</li>
+<li>JavaScript</li>
+<li>NodeJS</li>
+<li>No-SQL(Firebase)</li>
+<li></li>
 
-Keen :golf: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Outside of coding you might find me :
+
+<li>:golf:</li>
+<li>:airplane: :earth_asia:</li>
+<li>:soccer:</li>
+<li>:cinema:</li>
+<li>:running_man:</li>
+
+⚡ Fun fact: I can do a Rubix Cube in under 2 mins
+ 
+🔭 I’m currently working on a Client project to build an progressive Web App
+
+📫 How to reach me: 
+
+:e-mail: - Ollierobins93@gmail.com
+
 <!--
 **olirob93/olirob93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
 -->
