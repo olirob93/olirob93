@@ -1,5 +1,12 @@
 <img src='header.png'>
 
+
+Since the beggining of 2020 I have been Learning Front End Development. I enrolled in Nology's 12 week webdeveloper bootcamp to enhance my skills!
+
+:page_with_curl: Current Skills include but are not limited to:
+
+<li>ReactJs</li>
+
 Keen :golf: 
 
 - 🔭 I’m currently working on ...
