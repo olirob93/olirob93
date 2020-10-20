@@ -22,14 +22,14 @@
 <li>:cinema:</li>
 <li>:running_man:</li>
 
-⚡ <h3>Fun fact: I can do a Rubix Cube in under 2 mins</h3>
+<h3>⚡ Fun fact: I can do a Rubix Cube in under 2 mins</h3>
  
-🔭 <h3>I’m currently working on a Client project to build an progressive Web App</h3>
+<h3>🔭 I’m currently working on a Client project to build an progressive Web App</h3>
 
-📫 How to reach me: 
+<h3>📫 How to reach me: </h3>
 
-<li> Linkedin: <a>https://www.linkedin.com/in/ollierobins</a> </li>
-<li> Website: <a>https://ollierobins.co.uk/</a> </li>
+<li> Linkedin: <ahref="https://www.linkedin.com/in/ollierobins"></a> </li>
+<li> Website: <a href="https://ollierobins.co.uk/"</a> </li>
 
 <!--
 **olirob93/olirob93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
