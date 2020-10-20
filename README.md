@@ -11,8 +11,6 @@
 <li>JavaScript</li>
 <li>NodeJS</li>
 <li>No-SQL(Firebase)</li>
-<li></li>
-
 
 <h3>Outside of coding you might find me :</h3>
 
@@ -30,6 +28,7 @@
 
 <li> Linkedin: [https://www.linkedin.com/in/ollierobins](https://www.linkedin.com/in/ollierobins) </li>
 <li> Website: [https://ollierobins.co.uk/](https://ollierobins.co.uk/) </li>
+[I'm an inline-style link](https://www.google.com)
 
 <!--
 **olirob93/olirob93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
