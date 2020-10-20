@@ -12,13 +12,13 @@
  <li>NodeJS</li>
  <li>No-SQL(Firebase)</li>
 
-<h3>Outside of coding you might find me :</h3>
+<h3>:house_with_garden: Outside of coding you might find me :</h3>
 
- <li> On the:golf: Course</li>
+ <li> On the :golf: Course</li>
  <li> On an :airplane: travelling the :earth_asia:</li>
  <li> Playing :soccer:</li>
- <li> At the:cinema:</li>
- <li> Out of a :running_man:</li>
+ <li> At the :cinema:</li>
+ <li> Out for a :running_man:</li>
 
 <h3>⚡ Fun fact: I can do a Rubix Cube in under 2 mins</h3>
  
