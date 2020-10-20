@@ -1,7 +1,7 @@
 <img src='header.png'>
 
 
-<h2>Since the beggining of 2020 I have been Learning Front End Development. I enrolled in Nology's 12 week web developer bootcamp to enhance my skills!</h2?
+<h2>Since the beggining of 2020 I have been Learning Front End Development. I enrolled in Nology's 12 week web developer bootcamp to enhance my skills!</h2>
 
 <h3>:page_with_curl: Current Skills include but are not limited to:</h3>
 
