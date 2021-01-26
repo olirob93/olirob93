@@ -1,7 +1,7 @@
 <img src='header.png'>
 
 
-<h2>Since the beggining of 2020 I have been Learning Front End Development. I enrolled in Nology's 12 week software developer bootcamp to enhance my skills!</h2>
+<h2>Software Developer at Minstersoft</h2>
 
 <h3>:page_with_curl: Current Skills include but are not limited to:</h3>
 
@@ -10,7 +10,8 @@
  <li>HTML/CSS</li>
  <li>JavaScript</li>
  <li>NodeJS</li>
- <li>No-SQL(Firebase)</li>
+ <li>MongoDB</li>
+ <li>AWS<li>
 
 <h3>:house_with_garden: Outside of coding you might find me :</h3>
 
@@ -22,7 +23,7 @@
 
 <h3>⚡ Fun fact: I can do a Rubix Cube in under 2 mins</h3>
  
-<h3>🔭 I’m currently working on a an Ecommerce Site in react using redux</h3>
+<h3>🔭 I’m currently working on a personal project which is an Ecommerce Site in react using redux</h3>
 
 <h3>📫 How to reach me: </h3>
 
