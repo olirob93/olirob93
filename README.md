@@ -11,7 +11,9 @@
  <li>JavaScript</li>
  <li>NodeJS</li>
  <li>MongoDB</li>
- <li>AWS<li>
+ <li>AWS</li>
+ <li>Gatsby</li>
+ <li>JAM Stack</li>
 
 <h3>:house_with_garden: Outside of coding you might find me :</h3>
 
