@@ -13,7 +13,9 @@
  <li>MongoDB</li>
  <li>AWS</li>
  <li>Gatsby</li>
- <li>JAM Stack</li>
+ <li>Strapi CMS</li>
+ <li>GraphQL</li>
+ 
 
 <h3>:house_with_garden: Outside of coding you might find me :</h3>
 
