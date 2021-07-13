@@ -26,8 +26,6 @@
  <li> Out for a :running_man:</li>
 
 <h3>⚡ Fun fact: I can do a Rubix Cube in under 2 mins</h3>
- 
-<h3>🔭 I’m currently working on a personal project which is an Ecommerce Site in react using redux</h3>
 
 <h3>📫 How to reach me: </h3>
 
