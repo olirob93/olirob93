@@ -1,7 +1,7 @@
 <img src='header.png'>
 
 
-<h2>Software Developer at Minstersoft</h2>
+<h2>Software Development Coach</h2>
 
 <h3>:page_with_curl: Current Skills include but are not limited to:</h3>
 
@@ -10,11 +10,10 @@
  <li>HTML/CSS</li>
  <li>JavaScript</li>
  <li>NodeJS</li>
- <li>MongoDB</li>
- <li>AWS</li>
- <li>Gatsby</li>
- <li>Strapi CMS</li>
+ <li>AWS Services</li>
+ <li>NoSQL databases</li>
  <li>GraphQL</li>
+ <li>Java</li>
  
 
 <h3>:house_with_garden: Outside of coding you might find me :</h3>
