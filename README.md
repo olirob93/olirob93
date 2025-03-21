@@ -1,6 +1,3 @@
-<img src='header.png'>
-
-
 <h2>Software Developer | Engineering Manager </h2>
 
 <h3>:page_with_curl:Techinical Skills:</h3>
