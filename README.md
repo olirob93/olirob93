@@ -1,5 +1,9 @@
 <h2>Software Developer | Engineering Manager </h2>
 
+<pI have two years of experience as a full-stack software engineer, developing applications with React, TypeScript, and Node.js. During this time, I built and maintained scalable web applications, implemented RESTful APIs, optimized frontend performance, and worked with cloud services to deploy and manage applications. I also collaborated closely with cross-functional teams to deliver high-quality software solutions.</p> 
+
+<p>Building on this foundation, I moved into an engineering manager role, leading and mentoring a team of 12 engineers across multiple projects. In this role, I used DORA metrics to track engineering performance and drive continuous improvement and led an AWS IAM security audit to identify and remediate misconfigurations, strengthening cloud security..</p>
+
 <h3>:page_with_curl:Techinical Skills:</h3>
 
  <li>Git</li>
